@@ -13,7 +13,7 @@ This project focuses on brain tumor detection using MRI (Magnetic Resonance Imag
 - **brain/**: Contains MRI image data used for training and testing.
 - **results/**: Contains result images generated during model evaluation.
 - **screenshots/**: Includes screenshots of evaluation metrics and results.
-- **brain_tumor_detection_by_cnn_pytorch.py**: Main script for training and evaluating the CNN model.
+- **brain_tumor_detection_cnn.py**: Main script for training and evaluating the CNN model.
 - **metadata.csv**: Metadata file containing information about the dataset.
 - **metadata_rgb_only.csv**: Metadata file focusing on RGB-specific image data.
 
@@ -37,7 +37,7 @@ This project focuses on brain tumor detection using MRI (Magnetic Resonance Imag
    ```
 4. Run the training script:
    ```bash
-   python brain_tumor_detection_by_cnn_pytorch.py
+   python brain_tumor_detection_cnn.py
    ```
 5. Evaluate the model:
    - View results in the **results/** folder.
