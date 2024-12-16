@@ -62,5 +62,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 For questions or collaboration opportunities, please contact:
-- **Name**: [Mouad BARRAS]
+- **Name**: Mouad BARRAS
 - **LinkedIn**: [Mouad BARRAS](https://www.linkedin.com/in/mouad-barras/)
